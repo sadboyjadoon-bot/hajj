@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "appTitle": "Hajj Companion",
+  "welcome": "Assalamu alaikum",
+  "languageName": "English",
+  "localTime": "Device local time",
+  "goodMorning": "Good morning",
+  "goodAfternoon": "Good afternoon",
+  "goodEvening": "Good evening"
+}
